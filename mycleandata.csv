@@ -1,0 +1,122 @@
+,institution,zt_adoption,sda,sdwan,sddc,segmentation,access_control,anomaly_detection,encryption,security_automation,patching,mfa,sso,policy_engine,risk_detection,privilege_mngt,mdm,managed_device_policy,unmanaged_device_policy,dlp,endpoint_protection
+0,Bank,3.0,Yes,No,No,Yes,Yes,Yes,3.0,No,4.0,4.0,5.0,No,No,4.0,1.0,Yes,Yes,No,No
+1,Bank,5.0,No,Yes,No,Yes,Yes,Yes,3.0,No,4.0,5.0,3.0,Yes,Yes,3.0,3.0,Yes,Yes,No,Yes
+2,Bank,5.0,Yes,Yes,Yes,Yes,Yes,Yes,3.0,Yes,5.0,5.0,5.0,Yes,Yes,4.0,5.0,Yes,Yes,Yes,Yes
+3,Bank,2.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,3.0,5.0,Yes,No,5.0,2.0,Yes,Yes,No,Yes
+4,Bank,3.0,No,No,No,Yes,Yes,No,3.0,No,4.0,3.0,4.0,Yes,No,3.0,1.0,Yes,No,No,No
+6,Bank,3.0,No,No,No,Yes,Yes,Yes,1.0,Yes,4.0,1.0,5.0,Yes,Yes,5.0,1.0,Yes,Yes,No,Yes
+8,Bank,2.0,No,Yes,No,Yes,No,No,3.0,No,3.0,2.0,1.0,No,No,3.0,1.0,No,Yes,No,Yes
+9,SACCO,3.0,Yes,No,No,Yes,Yes,No,3.0,No,3.0,3.0,3.0,No,No,5.0,3.0,No,Yes,No,Yes
+10,Bank,4.0,Yes,Yes,No,Yes,Yes,Yes,4.0,Yes,5.0,5.0,5.0,No,Yes,5.0,3.0,Yes,Yes,Yes,Yes
+11,Bank,5.0,Yes,Yes,No,Yes,Yes,Yes,5.0,Yes,5.0,5.0,5.0,No,Yes,5.0,5.0,Yes,Yes,Yes,Yes
+12,SACCO,3.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,Yes,Yes,No,Yes
+13,Bank,5.0,Yes,Yes,Yes,Yes,Yes,Yes,5.0,Yes,5.0,5.0,5.0,Yes,Yes,4.0,3.0,Yes,Yes,Yes,Yes
+14,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+15,Insurance company,4.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,5.0,5.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+16,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+17,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+18,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,3.0,3.0,Yes,Yes,4.0,5.0,Yes,Yes,Yes,Yes
+19,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+20,Insurance company,3.0,No,Yes,No,Yes,Yes,No,3.0,Yes,4.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+21,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+22,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+23,Bank,4.0,No,No,No,Yes,Yes,Yes,3.0,Yes,5.0,5.0,5.0,Yes,Yes,5.0,5.0,Yes,Yes,Yes,Yes
+24,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,5.0,5.0,5.0,Yes,Yes,5.0,4.0,Yes,Yes,Yes,Yes
+25,SACCO,3.0,No,No,No,Yes,Yes,Yes,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,No
+26,Insurance company,4.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+27,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+28,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+29,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+30,Bank,1.0,Yes,Yes,Yes,Yes,Yes,No,1.0,Yes,1.0,1.0,1.0,No,Yes,1.0,1.0,Yes,Yes,Yes,No
+32,SACCO,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,4.0,Yes,No,4.0,3.0,Yes,Yes,Yes,Yes
+33,SACCO,5.0,Yes,Yes,Yes,Yes,Yes,Yes,5.0,Yes,5.0,4.0,1.0,No,Yes,5.0,5.0,Yes,Yes,Yes,Yes
+34,Bank,5.0,Yes,Yes,Yes,Yes,Yes,Yes,5.0,Yes,5.0,5.0,5.0,Yes,Yes,5.0,5.0,Yes,Yes,Yes,Yes
+35,Bank,4.0,No,Yes,Yes,Yes,Yes,Yes,4.0,No,5.0,3.0,1.0,Yes,Yes,4.0,5.0,Yes,Yes,Yes,Yes
+36,SACCO,2.0,No,No,Yes,Yes,No,No,1.0,No,1.0,3.0,3.0,Yes,No,3.0,3.0,No,No,Yes,Yes
+37,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,4.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+38,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+39,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,Yes,3.0,1.0,Yes,Yes,No,Yes
+40,Bank,4.0,No,Yes,No,Yes,Yes,No,3.0,Yes,5.0,3.0,3.0,Yes,No,5.0,5.0,Yes,Yes,Yes,Yes
+41,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+42,Insurance company,4.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,4.0,4.0,Yes,Yes,3.0,4.0,Yes,Yes,Yes,Yes
+43,Bank,4.0,No,Yes,No,Yes,Yes,No,3.0,Yes,3.0,5.0,5.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+44,Bank,3.0,No,No,No,No,Yes,Yes,2.0,No,2.0,2.0,3.0,Yes,Yes,4.0,1.0,No,No,No,Yes
+45,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+46,Insurance company,3.0,No,No,No,Yes,Yes,Yes,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+47,Bank,3.0,No,No,Yes,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+48,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+49,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,1.0,1.0,Yes,Yes,No,Yes
+50,SACCO,3.0,No,No,No,Yes,Yes,Yes,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+51,Insurance company,3.0,No,No,No,Yes,Yes,Yes,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+52,SACCO,1.0,No,Yes,No,No,No,Yes,1.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+53,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+54,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+55,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+56,Insurance company,2.0,No,No,No,Yes,Yes,No,2.0,No,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+57,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+58,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+59,SACCO,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+60,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+61,SACCO,3.0,No,No,No,Yes,Yes,Yes,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+62,Insurance company,4.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+63,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+64,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+65,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+66,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,1.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+67,Insurance company,4.0,No,No,No,Yes,Yes,No,3.0,Yes,4.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+68,SACCO,3.0,No,No,No,Yes,Yes,Yes,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+69,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+71,SACCO,1.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+72,Bank,1.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+73,Bank,1.0,No,No,No,No,No,Yes,1.0,Yes,3.0,5.0,3.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+74,Insurance company,2.0,No,No,No,Yes,Yes,No,2.0,No,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+75,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+76,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+77,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+78,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+79,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,No
+80,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+81,Bank,3.0,No,No,Yes,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+82,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+83,Bank,4.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,3.0,3.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+84,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+85,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+86,SACCO,4.0,No,No,No,Yes,Yes,Yes,3.0,Yes,4.0,3.0,3.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+87,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,No
+88,Insurance company,1.0,No,No,No,Yes,Yes,Yes,3.0,Yes,3.0,3.0,3.0,Yes,Yes,3.0,3.0,Yes,Yes,No,Yes
+89,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+90,Bank,2.0,No,No,No,No,No,No,1.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,No
+91,Bank,4.0,Yes,Yes,No,Yes,Yes,No,3.0,Yes,4.0,3.0,4.0,Yes,Yes,4.0,1.0,No,No,No,Yes
+92,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+93,Insurance company,2.0,No,No,No,Yes,Yes,No,2.0,No,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+94,Insurance company,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+95,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+96,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,1.0,1.0,No,No,No,No
+97,Bank,4.0,No,No,Yes,Yes,No,No,3.0,Yes,3.0,3.0,3.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+98,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+99,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+100,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+101,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,No
+102,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+103,Bank,3.0,No,No,No,Yes,No,No,1.0,No,1.0,2.0,2.0,Yes,Yes,2.0,1.0,No,No,No,No
+104,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+105,SACCO,3.0,No,No,Yes,Yes,Yes,Yes,2.0,Yes,5.0,3.0,4.0,Yes,Yes,4.0,4.0,Yes,Yes,Yes,Yes
+106,Bank,3.0,No,No,Yes,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+107,Bank,3.0,No,Yes,Yes,No,No,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+108,Bank,3.0,No,Yes,Yes,No,Yes,Yes,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+109,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+110,Bank,1.0,No,No,No,No,Yes,Yes,3.0,No,3.0,3.0,3.0,Yes,No,3.0,1.0,Yes,No,Yes,Yes
+111,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+112,Bank,3.0,No,Yes,No,No,No,No,1.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+113,Bank,3.0,No,No,No,Yes,Yes,Yes,3.0,Yes,3.0,1.0,1.0,Yes,Yes,3.0,5.0,Yes,Yes,Yes,Yes
+114,Bank,3.0,No,No,No,Yes,Yes,No,3.0,Yes,3.0,1.0,1.0,Yes,No,3.0,5.0,Yes,Yes,Yes,Yes
+115,SACCO,2.0,No,No,No,Yes,No,No,1.0,No,3.0,1.0,1.0,No,No,3.0,1.0,No,No,No,Yes
+116,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+117,SACCO,3.0,No,No,No,Yes,Yes,No,2.0,Yes,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,No,Yes,Yes
+118,Bank,3.0,Yes,Yes,Yes,No,No,Yes,2.0,Yes,2.0,1.0,1.0,Yes,Yes,1.0,1.0,Yes,Yes,No,Yes
+119,Insurance company,2.0,No,No,No,Yes,Yes,No,2.0,No,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,Yes
+120,Insurance company,2.0,No,No,No,Yes,Yes,No,2.0,No,3.0,1.0,1.0,Yes,No,3.0,1.0,Yes,Yes,No,No
+121,Bank,1.0,Yes,Yes,Yes,Yes,No,No,2.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+122,Bank,4.0,No,No,No,No,No,No,1.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
+124,SACCO,3.0,Yes,Yes,Yes,No,Yes,Yes,4.0,Yes,2.0,3.0,2.0,Yes,No,2.0,1.0,No,No,No,Yes
+126,Bank,3.0,Yes,Yes,Yes,No,No,No,1.0,No,1.0,1.0,1.0,No,No,1.0,1.0,No,No,No,Yes
